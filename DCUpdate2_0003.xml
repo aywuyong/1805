@@ -1,0 +1,25 @@
+[UPGRADE_FILE]
+Name = DragonCenterUpdate2.1.1804.1103.zip
+Version = 2.1.1804.1102
+Level = High
+Model = 
+
+[MESSAGE]
+Content =  
+Version = 0000
+Repeat = 1
+Model = 
+
+[Hotfix]
+Download = Reminder_Hotfix01.zip
+Filename = Reminder_Hotfix01.exe
+Version = 0011
+Model = 
+
+[HTTP]
+Address = 
+Version = 0000
+Model = 
+
+
+
